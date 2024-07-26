@@ -1,0 +1,75 @@
+{
+  "Emergency Department": {
+    "id": "0",
+    "carts": [
+      {
+        "label": "ED Cart 1",
+        "id": "1"
+      },
+      {
+        "label": "ED Cart 2",
+        "id": "2"
+      },
+      {
+        "label": "ED Cart 3",
+        "id": "3"
+      }
+    ]
+  },
+  "Cardiovascular": {
+    "id": "1",
+    "carts": [
+      {
+        "label": "CV Cart 1",
+        "id": "4"
+      },
+      {
+        "label": "CVICU",
+        "id": "5"
+      }
+    ]
+  },
+  "Pediatrics": {
+    "id": "2",
+    "carts": [
+      {
+        "label": "PEDS Cart 1",
+        "id": "6"
+      },
+      {
+        "label": "PEDS Cart 2",
+        "id": "7"
+      },
+      {
+        "label": "PICU",
+        "id": "8"
+      }
+    ]
+  },
+  "Brick and Mortar": {
+    "id": "3",
+    "carts": [
+      {
+        "label": "Outpatient 1",
+        "id": "9"
+      },
+      {
+        "label": "Outpatient 2",
+        "id": "10"
+      }
+    ]
+  },
+  "Demo Carts": {
+    "id": "4",
+    "carts": [
+      {
+        "label": "RJ-GS300",
+        "id": "robert.janis@pexip.com"
+      },
+      {
+        "label": "RJ-DX80",
+        "id": "rjanis.dx80@rj-lab.com"
+      }
+    ]
+  }
+}
